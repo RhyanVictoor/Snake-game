@@ -13,7 +13,7 @@ Este é o repositório do famoso jogo da cobrinha desenvolvido com HTML, CSS e J
 
 ## Pré-requisitos
 
-Não há pré-requisitos específicos para utilizar este gerador de senha.
+Não há pré-requisitos específicos para utilizar.
 
 ## Contribuindo
 
